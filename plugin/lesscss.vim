@@ -52,6 +52,6 @@ augroup END
 " }}}
 " Key bindings {{{
 
-nnoremap <Leader>l :call lesscss#toggle()<CR>
+"nnoremap <Leader>l :call lesscss#toggle()<CR>
 
 " }}}
